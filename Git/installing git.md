@@ -68,3 +68,4 @@ If you plan to use SSH for authentication with Git repositories (like GitHub or 
     ```
 
 6. Add the SSH key to your Git hosting service (GitHub, GitLab, etc.).
+ 
